@@ -223,6 +223,14 @@
     "@pulumi/pulumi" "^3.0.0"
     semver "^5.4.0"
 
+"@pulumi/docker@^4.1.1":
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/@pulumi/docker/-/docker-4.1.1.tgz#70abe47ac18333271f868b33807da6e9f8c38339"
+  integrity sha512-PEhBxDTwrerhJjSZoclevOUzVysX1wEiF+k8rPvRusSowUzqBjGhL4/bbY5WEM/FeN+Ss72iQsv/gmNAnbqDVA==
+  dependencies:
+    "@pulumi/pulumi" "^3.0.0"
+    semver "^5.4.0"
+
 "@pulumi/pulumi@^3.0.0":
   version "3.61.0"
   resolved "https://registry.yarnpkg.com/@pulumi/pulumi/-/pulumi-3.61.0.tgz#67ae9b3f2c92d13f24497842d00f3070ea84afb6"
